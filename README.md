@@ -1,2 +1,3 @@
 # zustand-simulated-peripheral-state
-Created with CodeSandbox
+Upploaded from CodeSandbox
+Forked from https://codesandbox.io/s/zustand-normal-immer-optics-ramda-updating-ynn3o
